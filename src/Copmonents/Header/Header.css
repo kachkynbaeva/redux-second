@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+}
+.header {
+    padding: 50px ;
+}
+.header-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.header-wrapper a {
+    text-decoration: none;
+    background-color: pink;
+    color: black;
+    padding: 15px 25px;
+    border: 2px solid cornflowerblue;
+    border-radius: 10px;
+}
+
+
